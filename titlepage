@@ -1,0 +1,29 @@
+
+\begin{titlepage}
+\begin{center}
+
+{\small\textsc{Нижегородский государственный университет имени Н.\,И. Лобачевского}}
+\vskip 2pt \hrule \vskip 3pt
+{\small\textsc{Радиофизический факультет}}
+
+\vfill
+
+
+{{\large Отчет по лабораторной работе №\labnumber}\vskip 12pt {\LARGE \bfseries \labtheme}}
+
+	
+\vspace{2cm}
+{\large Работу выполнили студенты \\[-0.25em] \labgroup\  группы радиофизического факультата \\[0.5em] {\Large \bfseries \labauthors}}
+
+
+\end{center}
+
+\vfill
+	
+
+	
+\begin{center}
+	{Нижний Новгород, \labstartdate\ -- \today}
+\end{center}
+
+\end{titlepage}
